@@ -1,0 +1,682 @@
+Level Pack: Original Soundtrack Vol. 1
+Level ID:  100Bills
+Song Name: $100 Bills
+Level ID:  BalearicPumping
+Song Name: Balearic Pumping
+Level ID:  BeatSaber
+Song Name: Beat Saber
+Level ID:  Breezer
+Song Name: Breezer
+Level ID:  CommercialPumping
+Song Name: Commercial Pumping
+Level ID:  CountryRounds
+Song Name: Country Rounds
+Level ID:  Escape
+Song Name: Escape
+Level ID:  Legend
+Song Name: Legend
+Level ID:  LvlInsane
+Song Name: Lvl Insane
+Level ID:  TurnMeOn
+Song Name: Turn Me On
+-----------------------------------------------
+Level Pack: Original Soundtrack Vol. 2
+Level ID:  BeThereForYou
+Song Name: Be There For You
+Level ID:  Elixia
+Song Name: Elixia
+Level ID:  INeedYou
+Song Name: I Need You
+Level ID:  RumNBass
+Song Name: Rum n' Bass
+Level ID:  UnlimitedPower
+Song Name: Unlimited Power
+-----------------------------------------------
+Level Pack: Original Soundtrack Vol. 3
+Level ID:  Origins
+Song Name: Origins
+Level ID:  ReasonForLiving
+Song Name: Reason For Living
+Level ID:  GiveALittleLove
+Song Name: Give a Little Love
+Level ID:  FullCharge
+Song Name: Full Charge
+Level ID:  Immortal
+Song Name: Immortal
+Level ID:  BurningSands
+Song Name: Burning Sands
+-----------------------------------------------
+Level Pack: Extras
+Level ID:  Crystallized
+Song Name: Crystallized
+Level ID:  CycleHit
+Song Name: Cycle Hit
+Level ID:  WhatTheCat
+Song Name: WHAT THE CAT!?
+Level ID:  CrabRave
+Song Name: Crab Rave
+Level ID:  PopStars
+Song Name: POP/STARS - K/DA
+Level ID:  OneHope
+Song Name: One Hope
+Level ID:  AngelVoices
+Song Name: Angel Voices
+-----------------------------------------------
+Level Pack: Panic! At The Disco Music Pack
+Level ID:  TheGreatestShow
+Song Name: The Greatest Show
+Level ID:  Victorious
+Song Name: Victorious
+Level ID:  EmperorsNewClothes
+Song Name: Emperor's New Clothes
+Level ID:  HighHopes
+Song Name: High Hopes
+-----------------------------------------------
+Level Pack: Imagine Dragons Music Pack
+Level ID:  BadLiar
+Song Name: Bad Liar
+Level ID:  Believer
+Song Name: Believer
+Level ID:  Digital
+Song Name: Digital
+Level ID:  ItsTime
+Song Name: It's Time
+Level ID:  Machine
+Song Name: Machine
+Level ID:  Natural
+Song Name: Natural
+Level ID:  Radioactive
+Song Name: Radioactive
+Level ID:  Thunder
+Song Name: Thunder
+Level ID:  Warriors
+Song Name: Warriors
+Level ID:  WhateverItTakes
+Song Name: Whatever It Takes
+-----------------------------------------------
+Level Pack: Monstercat Music Pack Vol. 1
+Level ID:  Boundless
+Song Name: Boundless
+Level ID:  EmojiVIP
+Song Name: Emoji VIP
+Level ID:  Epic
+Song Name: EPIC
+Level ID:  FeelingStronger
+Song Name: Feeling Stronger
+Level ID:  Overkill
+Song Name: Overkill
+Level ID:  Rattlesnake
+Song Name: Rattlesnake
+Level ID:  Stronger
+Song Name: Stronger
+Level ID:  ThisTime
+Song Name: This Time
+Level ID:  TillItsOver
+Song Name: Till It's Over
+Level ID:  WeWontBeAlone
+Song Name: We Won't Be Alone
+-----------------------------------------------
+Level Pack: Custom Maps
+Level ID:  custom_level_ADA5657EBDE3334BF71C8900332E00541A5DBED9
+Song Name: [EOBIM] Thunderstuck but every other beat is missing
+Level ID:  custom_level_727A8FEDACE3F520D76D686F32D0484F82240E00
+Song Name: 1, 2 Fanclub
+Level ID:  custom_level_839245D64719D018E40E2F11654B7C49230CA126
+Song Name: 166 - Suzuya Homerarete Nobiru Type Nandesu.
+Level ID:  custom_level_5F85D131F63C7415967BA4414ABEF741686ECE9C
+Song Name: A B Y S S
+Level ID:  custom_level_481F8BA2A7F24418FCA0FE8810A61B183AFFDFD0
+Song Name: A Cruel Angel's Thesis
+Level ID:  custom_level_376F2ACE119DC0BA9C7D2DA74BF5AE096E0021E1
+Song Name: ACE FOR ACES
+Level ID:  custom_level_16D54B364C4620B9951CAAC5516A8C7E7345070F
+Song Name: Acid burst
+Level ID:  custom_level_100DE2656D9912226AA0AEFEB9072B4582D9BAF5
+Song Name: After Dark
+Level ID:  custom_level_EC09852C974341516030D69776322DA85F9BF539
+Song Name: Again
+Level ID:  custom_level_65C0C3E82499281F2C9B1D09D7EB3E60BCACD57D
+Song Name: Air
+Level ID:  custom_level_AB2F578EC7A8D381D59B35E102389DF8E516D9AD
+Song Name: Akasha
+Level ID:  custom_level_1511D6A7D4BEDEB8D9E9C0286EA44784F01EAE0E
+Song Name: ALTONA
+Level ID:  custom_level_AEB177797284C67D7763FA820084449B483D2748
+Song Name: Ange du Blanc Pur
+Level ID:  custom_level_F52F1B4028F16C095237EA504A5A56B76ECB318E
+Song Name: ANiMA
+Level ID:  custom_level_1A1737CABA0F049A69369E328622E06B2A32B634
+Song Name: Animals (Radio Edit)
+Level ID:  custom_level_999FC247E84E51D701A6DB68EB543D2DE2047A99
+Song Name: Arcade Busters
+Level ID:  custom_level_B444C14C69F0D04C7350621EBA7955496C698936
+Song Name: Ascension to Heaven
+Level ID:  custom_level_3DEDF5840D5438920D9105315D44FD35625F5BCD
+Song Name: Avalanche
+Level ID:  custom_level_2EDBDB80A67A7D726FBDDEEB0CD72B01C2CFF84C
+Song Name: BAAM
+Level ID:  custom_level_311C978E73EF8DDA15F46B000A026B93325EBF0F
+Song Name: Back And Forth
+Level ID:  custom_level_376ABE290620E443E9451366ACCB30E5095EDBCE
+Song Name: Backbone
+Level ID:  custom_level_4FFB4B82A7443E184AEACE69B9D12F63D39B4386
+Song Name: Bangarang
+Level ID:  custom_level_5C6C8B78EA64E9B82FEBE58A7F8A48632F03C4E3
+Song Name: Bangin' Burst
+Level ID:  custom_level_85979CB6C4289DF5DB64CA2BF1A564CA265F430A
+Song Name: Barracuda
+Level ID:  custom_level_1320CCC37C776EF3245A811B60D6A5E0C3E672A8
+Song Name: Battle Sirens (RIOT Remix)
+Level ID:  custom_level_F7E5BA8295C1040E1DBDC69F5F4C21A0557D960F
+Song Name: Be Wild
+Level ID:  custom_level_4B2DA842B687EC4CFBC948C583C21C79D4120DE0
+Song Name: Beat it
+Level ID:  custom_level_90F5D8673EE4E39897EAD572FC98E5C1171027E6
+Song Name: Beat Saber XIX
+Level ID:  custom_level_19F2879D11A91B51A5C090D63471C3E8D9B7AEE3
+Song Name: Believer
+Level ID:  custom_level_E94785A8520A1AA69F7BBE9CBEF12917A765ACC1
+Song Name: Belly Flopper
+Level ID:  custom_level_E5F61DBD37A9CB46506C899ECC6861B6491D27DD
+Song Name: Berry Go !!
+Level ID:  custom_level_8FB6C0898680ECDC9D5CEBB7B823D7341D850C0A
+Song Name: Big Sky (Agnelli & Nelson Remix)
+Level ID:  custom_level_900F73DB5BBE20E6A337EE8794EE203BC770532B
+Song Name: Bismarck
+Level ID:  custom_level_AA4038E7B937773382C569A097D7B3CF0C40407D
+Song Name: Black Emperor
+Level ID:  custom_level_718C11D8C8342CC4B46302B4C6C92302440A52FD
+Song Name: Black Shout
+Level ID:  custom_level_D3A0DE31EBE3B61D3328D03A0E82C4152A9BE5A8
+Song Name: Blue Zenith
+Level ID:  custom_level_97747D8098D115BA2654452986893FFCC157392C
+Song Name: Blue Zenith
+Level ID:  custom_level_52FE9BF8625FF8BE431E42B228F803B628FDC7BF
+Song Name: Bluenation
+Level ID:  custom_level_D0B80C6F3B072791779D39A2BC637719B6E99250
+Song Name: Bomb Rush Blush (Smash Ultimate Mix)
+Level ID:  custom_level_09D7C85FF3B13197992F0C805D9FCAD3C87C9A25
+Song Name: Book of Law
+Level ID:  custom_level_C0E3706463C5C9B993BA5D05C2166FB0B512E695
+Song Name: Boy With Luv
+Level ID:  custom_level_189596BB9BF3904E8E3F2178ADD7BB77FA25E21C
+Song Name: Brain Power (SDVX Mix)
+Level ID:  custom_level_F7CE9E6B4320608D5EC10220EFFD89A1AE6841B3
+Song Name: Break
+Level ID:  custom_level_6A5AEA3CE9A7A9F120EBD4DEEA377B4A54640BFB
+Song Name: Break
+Level ID:  custom_level_FFD2AAE61F12391CCBBF237A889E906B493620D0
+Song Name: Broken
+Level ID:  custom_level_B9C0F43ADEF34726CFAF86AEFF9196FB66786760
+Song Name: BTH 4 - SELFIE
+Level ID:  custom_level_F83EDEC86D3FAF683711ECB0A9DF6BD65D2D0CE0
+Song Name: BUBBLE TEA
+Level ID:  custom_level_28EBFE2A6CA33AED9AD743FC58AAF30CECFCAD46
+Song Name: Butter-Fly
+Level ID:  custom_level_1AA42216F61E6C18A5DBEDB2001B57C63977B8BC
+Song Name: CANDYYYLAND (Pa's Lam System Remix)
+Level ID:  custom_level_061DB548E0E73A58E93835997A3B06C7C27756E6
+Song Name: CANDYYYLAND (Pa's Lam System Remix)
+Level ID:  custom_level_29E5877EC735378B8BA3751DC8896BF63A43C525
+Song Name: Caravan Palace - Miracle
+Level ID:  custom_level_E46558241BEF6FC4008034A73A2CE36767F58800
+Song Name: Chikatto Chika Chika
+Level ID:  custom_level_77D1155A2A072A76A530404BDB4995AA36EFFF14
+Song Name: Chirality
+Level ID:  custom_level_692C3639C199DC1FA381325B77A70966186C125F
+Song Name: Chrome Vox
+Level ID:  custom_level_2C908DF9BB7AA93884AB9BFA8DDC598C3DE479E9
+Song Name: Chrome VOX (Uncut Edition)
+Level ID:  custom_level_E2934FBC194A51AA3579613BD88DC47503016C8A
+Song Name: Circus
+Level ID:  custom_level_8EEB20D53093FCF060460AA9AC6815D0668D27D1
+Song Name: City Lights (Pa's Lam System Remix)
+Level ID:  custom_level_E61FFB7B3F0E8BC31C4898CBBFA1AE6DAAAD55BE
+Song Name: Colors of the Heart
+Level ID:  custom_level_D2E8521CED63CD513B70E91CD23394FCA0045842
+Song Name: Courage
+Level ID:  custom_level_B54881C288E83036EC8A67E774926CE334798F4E
+Song Name: Crocodile Cacophony
+Level ID:  custom_level_B70AEEF2EE915CED48593422931E8BA2A1F4E973
+Song Name: Crying for Rain
+Level ID:  custom_level_F5ECD2FA493C8F25F191E2B47FF908372C04E2A7
+Song Name: Crystal
+Level ID:  custom_level_8C51D94E3E247DF86A4C7113E9FDBCC434A56F4B
+Song Name: Cycle Hit
+Level ID:  custom_level_4867E299296A5B965EDC4DCD930C07703B06B96E
+Song Name: Daisuki, Evolution
+Level ID:  custom_level_B4D0667F56F5DCF7DA90F1CD7BF6B6FBAD8AA3C2
+Song Name: DANCINGbOX
+Level ID:  custom_level_6B33F4AAA774E96081FA7BD20BD33B733E91D757
+Song Name: Darkside
+Level ID:  custom_level_CA4F921E9FB576192203CEB7FCAF54E230055591
+Song Name: Deadly Nostalgia
+Level ID:  custom_level_C9C15D3F3109A8F732B41B299CE84556BEBF73AC
+Song Name: Deja Vu (Short Ver.)
+Level ID:  custom_level_200549108BB22752112C62D102BF69EE0C47FD7A
+Song Name: DeltaMAX
+Level ID:  custom_level_DEE2EF2FC976487AFCE124AE05403DB9135DB731
+Song Name: Der Wald (kors k Remix)
+Level ID:  custom_level_414169F2F791443D9F6278009DD91EBE369BC9B6
+Song Name: DEUTSCHLAND
+Level ID:  custom_level_B8D647A30F15E33D77808F9A143F02E3AF6016B4
+Song Name: Dire, Dire Docks (Wisp X Remix)
+Level ID:  custom_level_5639A12CCCF90238055116EC53E5297AA004627E
+Song Name: Don't Let Me Down (Illenium Remix)
+Level ID:  custom_level_FD495ECA9EA041A5C007BAFF8607CA24DABBD0A5
+Song Name: Don't say "lazy"
+Level ID:  custom_level_3F729EE74DB0D1F3807524C99A5D81C0EF81D800
+Song Name: Dreamin' Tonight
+Level ID:  custom_level_ED964887CC05D223DB177E0646EAA59355DE2972
+Song Name: ECHO feat. Gumi (Dj-Jo Remix)
+Level ID:  custom_level_E129EA8229FA270A97799EB5B7637C6FD76E4EEC
+Song Name: EmbryO
+Level ID:  custom_level_EA294DB03D1BAF7919B48F09DBC02C8494AB5B5A
+Song Name: Enantiomorphs
+Level ID:  custom_level_8B3707777D0288E8233531594F31857C24FFDC2D
+Song Name: Engage-Rex-
+Level ID:  custom_level_36AFD0E84D8DB7600DB5D023BE779BB47421BE6F
+Song Name: Enigma II
+Level ID:  custom_level_C71FD51B3D59DC8D8D5FB51CC72ACE5EF00145DC
+Song Name: Entry Number Seventeen
+Level ID:  custom_level_2F4572111932FD8C276A72D3FEA4AE570515DF21
+Song Name: ETERNAL BLAZE
+Level ID:  custom_level_E1AE03504B1E23AA44CCB194134C84B1BE21C8DA
+Song Name: Ether Strike
+Level ID:  custom_level_2AD4E086C43A343D9DCDADBE3E7822095109B5E9
+Song Name: Everlasting Message
+Level ID:  custom_level_BC6C7EF1385DB4C11C59736D2B32EACF48C95BD9
+Song Name: Every Time We Touch
+Level ID:  custom_level_D0B6C6880FC6415CD4839A71691D71E41B2C4D76
+Song Name: Everything will freeze
+Level ID:  custom_level_F369747C6B54914DEAA163AAE85816BA5A8C1845
+Song Name: Fallen (Short Ver.)
+Level ID:  custom_level_FA2A01DE3AAF0FF05BC7634501440210E151E188
+Song Name: Fallin' Angel
+Level ID:  custom_level_C63D899018F131D3AED03816C5074350AAA700A7
+Song Name: FANCY
+Level ID:  custom_level_25EC132A85C7A41141C8DA260DA0085B02A580C2
+Song Name: Fantastic future
+Level ID:  custom_level_834BB9533EA0BA5DEC806461230E103B85E1A5E3
+Song Name: Feel Good Inc.
+Level ID:  custom_level_3082BDB176578E683C0B5AE755A7ABAB5FF80363
+Song Name: FIRST
+Level ID:  custom_level_A9125789FCC01C971C51D5E2D250D105CF2E57D9
+Song Name: Flight of the Bumblebee (Pio Palumbo Remix)
+Level ID:  custom_level_30BB09ED78B0ABEE79BDECA20D60C2D071662C23
+Song Name: Flow
+Level ID:  custom_level_55DA5573F7F2CE29C9E414837581364B162F52B6
+Song Name: flying in the flow of deep-sea (Short Ver.)
+Level ID:  custom_level_440945A4FE86B5E3EE7F03B98C636C881930072F
+Song Name: Fractures (ft. Nevve)
+Level ID:  custom_level_AD64505817B3E2AB6CC5C7007FCFA07F2C34D1F4
+Song Name: Freedom Dive
+Level ID:  custom_level_4692C6C200BC92364C268A518E9DEE89146E4391
+Song Name: Freedom Dive
+Level ID:  custom_level_F1591BF3F2D821A48BB86214C9DA47D8CFF24046
+Song Name: FREEDOM DiVE
+Level ID:  custom_level_81D9E735CF005F93BC6064A963FE49B4C1BEEF62
+Song Name: Future Candy
+Level ID:  custom_level_4CE7BCA5960C90FE634D73F4BB8375EC6A31ADAE
+Song Name: g a r d e n (Short Ver.)
+Level ID:  custom_level_A03D474F37137E0DB7FD0D58BE1D97D8458E8AE5
+Song Name: G1ll35 d3 R415
+Level ID:  custom_level_152DA020C774105DB2D70FCBFD4991EF2878384B
+Song Name: Galactic Symphony
+Level ID:  custom_level_8E7E553099436AF31564ADF1977A5EC42A61CFFF
+Song Name: Gangnam Style
+Level ID:  custom_level_A563DE6F27B3F5064A4EEDEF0EEF5477577DC460
+Song Name: Gay Green Greens
+Level ID:  custom_level_38C3FC22D0ACA9236F17DD1D113F6B4F932A4707
+Song Name: Genesis
+Level ID:  custom_level_B04F04FDAA3ED6C2BCF09C0F4E9058E3CB153CD2
+Song Name: GHOST
+Level ID:  custom_level_62D3483C43C0E1D3F544DB190FCE650C91B8360B
+Song Name: Glucagon
+Level ID:  custom_level_5924DCC4ACA7C98856103869D74343FD03C2BB26
+Song Name: Good Morning World
+Level ID:  custom_level_30D843E0A660155CB080893B1BA9BD5256035B7D
+Song Name: Good Thymes
+Level ID:  custom_level_F22061809C798178786CA1B6E61B10CCBCBE8D28
+Song Name: Good Times Roll
+Level ID:  custom_level_731BCFCD93A8A04825ADD6C1FF8AC7BCBB991964
+Song Name: Goodbye
+Level ID:  custom_level_EA08458FFE4336A205E1CBAE539183E697845358
+Song Name: Great Distance
+Level ID:  custom_level_22A24B09471198EB057153E03FD60B32541CBA71
+Song Name: Green Light (Chromeo Remix)
+Level ID:  custom_level_5F73283FCC93BA018A93C3714811E26E4F751CBB
+Song Name: Guinea Pig Bridge
+Level ID:  custom_level_688DD94E8DCC7634A9DC5D38D3A7AA1522A05475
+Song Name: Halcyon
+Level ID:  custom_level_7719B8DE597CB1BFDFD6048E5FC51656DD5219EE
+Song Name: Happppy song
+Level ID:  custom_level_7C7F38D467BB43FE11A142581E63E324622ECC71
+Song Name: Harder Better Faster Stronger
+Level ID:  custom_level_8851ADD15E0FFA4818EE033CCC92DE6CE133DEC4
+Song Name: HE4VEN
+Level ID:  custom_level_207CC54D61A787E26DA47CE6C0CC45D9608D87FB
+Song Name: Heeartbeeat Oveerheeat!!!!
+Level ID:  custom_level_B889D49CF68A91B8A1A11D76FAFC0720063B0998
+Song Name: Hentacito
+Level ID:  custom_level_E1FB83BE49CBE3BB000D0DDC186CB0516AFDCC0B
+Song Name: HIBANA feat. Hatsune Miku
+Level ID:  custom_level_A47530329F1E08EC0BCEBADBD585B1357A110C9A
+Song Name: Hikaru Nara
+Level ID:  custom_level_B758BA486DDD190D87EF5C87525FB1286E36E52B
+Song Name: HONESTY
+Level ID:  custom_level_D52D9C4D44C2C9CCD8AA4C27F82C96432B871E79
+Song Name: Hoshi ga Matataku Konna Yoru ni
+Level ID:  custom_level_D826FA2F751020AD7E59B1AEB3F5D2902755A406
+Song Name: Hype feat. Such
+Level ID:  custom_level_6089D255B56DEA46C030AEB3A66BE8AA48029E7D
+Song Name: Ievan Polkka - Nightcore
+Level ID:  custom_level_76FA119C5D406C5AF9F119A428CD02E4C3AEF403
+Song Name: Igparera fihi gexigug igpariug afc
+Level ID:  custom_level_0BFAB2B62C6D7EA1C3587C48EFD1A0EEC365D983
+Song Name: iLLness LiLin
+Level ID:  custom_level_5FD83514310077B0D72A319F8CF198270CC2D72C
+Song Name: Imagination
+Level ID:  custom_level_53C04084A8B33AC931C10D1D942E9D6B86D3ECA0
+Song Name: Inferno
+Level ID:  custom_level_C53B7E2978676C2AB31EDF5385B3AE540366D349
+Song Name: Inferno
+Level ID:  custom_level_202AABC08B80EC5CE2BC685EBF89CDB90DC2EC81
+Song Name: Insane (ft. Ava) (Zero.Miz-Kun Nightstep) (Short Version)
+Level ID:  custom_level_FA07D7B2DC3025FCA141D34B91296709D615D096
+Song Name: Internet bitch (PLight Remix)
+Level ID:  custom_level_C22B89DB9DFEF084C62412DEF48CDACE57226F5E
+Song Name: Into the Zone
+Level ID:  custom_level_8255FEF3CE60E6A9CA404491B6D6FDFEC158581E
+Song Name: Kill This Love
+Level ID:  custom_level_4B7C8B243EF9EF54BE60AD3541C7C95045508C78
+Song Name: KillerBeast
+Level ID:  custom_level_DD25D22853DBEA89F8A3CC68CDA0937D6CB8E79C
+Song Name: Kizukeyo Baby
+Level ID:  custom_level_59EDC79516ACBC2EDAA130542F8D3A204585BFF0
+Song Name: Koi no Hime Hime Pettanko
+Level ID:  custom_level_BEB94EDEE41D9AAB16630EA96A752B2217EB95E9
+Song Name: Kyouran Hey Kids!!
+Level ID:  custom_level_9DC600EE749197F16EC4F75F5D5BF2AB38F8E4F8
+Song Name: Labyrinth
+Level ID:  custom_level_BA2FD3E414A9E0868AC4D0D450ED9F74B5797CC2
+Song Name: Last Proof
+Level ID:  custom_level_434EE3C29C11144B687890305595A9AC61AD867A
+Song Name: LAYon-theLINE V2
+Level ID:  custom_level_B12309860E4C561632B94128796658B4E2B59E46
+Song Name: Legend of Millennium
+Level ID:  custom_level_546F1C14B4E773F567BEFEB7E9A11D64D4D292A9
+Song Name: LegenD.
+Level ID:  custom_level_732BD4072B89D4B3BF0E63DB812A7FFC3096E837
+Song Name: Legends Never Die
+Level ID:  custom_level_F2CBCAF5C58BA9F7218CC4BCB304A401F874B784
+Song Name: level One
+Level ID:  custom_level_DF7ECAA1504D3A539549F02AEA0EDCC48B06B7C1
+Song Name: Lightbringer - Smite and Ignite
+Level ID:  custom_level_906160FD1F808E2F34F33C2CA5920118855C065D
+Song Name: Lone Digger
+Level ID:  custom_level_E80ADF683AED066F94BBBA3E49162D7D0D7247B4
+Song Name: Louder Than Steel
+Level ID:  custom_level_C77B4A37A463A549F04223F29A6608683F60E23F
+Song Name: Ludicrous Speed
+Level ID:  custom_level_6F41DB10DB5070511552D5932419C738B17D3E41
+Song Name: Made In Love
+Level ID:  custom_level_75B10748149340DEA74FF1870B2A59F609ACE7F5
+Song Name: Magnetism
+Level ID:  custom_level_F172A6F3B7061BF8ED321A65ABA63D6E226CE6F2
+Song Name: Mare Maris
+Level ID:  custom_level_AFB47D1ABB417A76A4293D29A725D6DD74D76782
+Song Name: MariannE (Lanota Edit)
+Level ID:  custom_level_8C93D176DE1B263A30835B75FB36899974307E8A
+Song Name: MAYDAY
+Level ID:  custom_level_179BBA967546867B1861C2882585D650A9033C47
+Song Name: Megalomania
+Level ID:  custom_level_DC5B8A8F9178F2978521A942A7CAF391712C63F9
+Song Name: Megalovania
+Level ID:  custom_level_FD705AAB3DE8C6256AE43CE7DC74FA578EB94F87
+Song Name: MEGALOVANIA
+Level ID:  custom_level_36C0FA7FA9F5408A535C248E52B599A284C76190
+Song Name: Midnight
+Level ID:  custom_level_CFCA2FE00BCC418DC9ECF64D92FC01CEEC52C375
+Song Name: Milk Crown on Sonnetica
+Level ID:  custom_level_F1B57219590FBD181CF2BA1F21A85242C5CD4CB1
+Song Name: Mirage (ft. Leo The Kind)
+Level ID:  custom_level_7DD5CB9A2E55426BC5BE81566378A5DA97D07102
+Song Name: Mirai to Mirai
+Level ID:  custom_level_BD93D34BEFA6C15388707DB4144796307D428A9A
+Song Name: MIRROR
+Level ID:  custom_level_D60CA1E3B6175D57DAC7463D532989F83C257EFB
+Song Name: Monochrome Butterfly
+Level ID:  custom_level_283095490EB5D0AA60B8117BF90D52FBC7D8300F
+Song Name: Monster
+Level ID:  custom_level_FBD9A9B86BC93A98E8159D28F262409B31BE3C5D
+Song Name: Monster
+Level ID:  custom_level_FD8D96DE2A21CD4C56C6657214BB88E1B127B471
+Song Name: Moonshine
+Level ID:  custom_level_236173D5BA7DC379D480B9CB5FB6B4FA5ABE77DA
+Song Name: Mr. Blue Sky
+Level ID:  custom_level_60D0E5D4CEFFA27B45CBD35A9FDFB61DEAA4DF24
+Song Name: NANI
+Level ID:  custom_level_46AD9D5A96C4CA3076465757AB35303DAF20ECC1
+Song Name: NANI THE FUCK!!
+Level ID:  custom_level_F92DAEDB9CAF209BC0DFC0B0F7446F3779EB6A28
+Song Name: Never Really Over
+Level ID:  custom_level_310694F2FF8D129D4E64192251653CAFFDC65B62
+Song Name: New Game
+Level ID:  custom_level_840DC308FFC8FDA9FA3F09401E89C7428EF1AA7F
+Song Name: Night sky
+Level ID:  custom_level_566E58FC06D8C8A296EAED07B2279767BA76B8DE
+Song Name: Night Sky
+Level ID:  custom_level_77B4787A4732142EA6760415224516C8FADB48D7
+Song Name: Nightcore - Rountable Rival
+Level ID:  custom_level_01E9554069556F1756CBFCF9AC233B68D98B19C8
+Song Name: Nothing Stopping Me (ft. Kat Nestel)
+Level ID:  custom_level_762B7BF1C06DBCC7AAB23D955A553E5420FBA6E5
+Song Name: NUCLEAR-STAR
+Level ID:  custom_level_8BD769820F8D71EBC25964771DDC950B5EBD3AAB
+Song Name: OKAY
+Level ID:  custom_level_3C01DA2A69BA6EB3C2EFD50EEB7C431F09C44C3B
+Song Name: One More Time
+Level ID:  custom_level_4E2D5AC97E52C6AA6E43CB675BDE99BCC3C76C43
+Song Name: Only My Railgun
+Level ID:  custom_level_4310F1B1D5AE5344F6CCD0AB31B892DF166F6C1A
+Song Name: osu!memories
+Level ID:  custom_level_131742D6624B8C25BA46FBE5913C542CA51C9332
+Song Name: ouroboros -twin stroke of the end-
+Level ID:  custom_level_27FCBAB3FB731B16EABA14A5D039EEFFD7BD44C9
+Song Name: Overkill
+Level ID:  custom_level_2FDDB136BDA7F9E29B4CB6621D6D8E0F8A43B126
+Song Name: Overkill
+Level ID:  custom_level_B6E8F764724506DD403328EEA1042816943F5E6D
+Song Name: PA PA YA!!
+Level ID:  custom_level_431FFAA53A1E45FFAB6C81A895E456F6AAD1E038
+Song Name: Papercut
+Level ID:  custom_level_C1679483DEEF2187F09DD5CCB4E16CADE04D7013
+Song Name: ParagonX9 - Infiltration
+Level ID:  custom_level_BEE657BFA017983257C34347FC23D867996F114F
+Song Name: Phantasia
+Level ID:  custom_level_5EDE52DB98F5CDE3A4D54B4F96D7F9B6FE227FE7
+Song Name: POP/STARS vs MEGALOVANIA
+Level ID:  custom_level_045662B7C37AF1D09E0F0A54C7076D4B2CB2C721
+Song Name: Pray(TV Size)
+Level ID:  custom_level_1E8728EDA10252145AE5C82A3562FFAB48569DFA
+Song Name: PUMP
+Level ID:  custom_level_2884021451135E751D3C442AE92243697744B349
+Song Name: Pump It
+Level ID:  custom_level_F77728BB6BFFD097E6E4C10CCBE72B5E8A51FF82
+Song Name: quaver
+Level ID:  custom_level_41C21A4C326D3B427DC68509921A4CB6C0F4B3CA
+Song Name: Quo Vadis
+Level ID:  custom_level_A5C831BAE7B74BB1CDF02FDE8EB93E40023EE15B
+Song Name: R4V3 B0Y (Rave Boy)
+Level ID:  custom_level_9A1D001995CC0A2014352AA7148CBCBF2E489D89
+Song Name: Rasputin (Funk Overload)
+Level ID:  custom_level_22DEB3F337EE75AAECF646C257D3FCC91D27728D
+Song Name: Real Or Fake
+Level ID:  custom_level_AD6C9F88D63259A95E39397C31BE2981C4BEB744
+Song Name: Reality Check Through The Skull
+Level ID:  custom_level_04C5AECE9740A97FD3FED5A328F03FCF895FB397
+Song Name: RED ZONE
+Level ID:  custom_level_A82D821528D118F7AB16F7B237096D6779A33056
+Song Name: Redo (TV Size)
+Level ID:  custom_level_A5BE6E439863B22BB0CA36E2F4EAD53452E1B978
+Song Name: RELOADED
+Level ID:  custom_level_EB52DC76EDD0EEEE542CA6D339127F88DCE9A5F4
+Song Name: RESISTER
+Level ID:  custom_level_C7A915C5315591F5A0E31F89DBBAD4E69992F353
+Song Name: Restart
+Level ID:  custom_level_09971264B1E9C4A31C578FD252F6862681AED2F6
+Song Name: Rise And Shine
+Level ID:  custom_level_B8C98FFC598703AADB4A3CB921D2830D270B57A5
+Song Name: Rockefeller Street (Nightcore)
+Level ID:  custom_level_AEDD974BD0B7BFAF8C9F9950BFD6368C04ADE258
+Song Name: Routine
+Level ID:  custom_level_2B9C36605B9F4F8F780563DA074CC439F0DD824E
+Song Name: Sail (V2)
+Level ID:  custom_level_0597F8F7D8E396EBFEF511DC9EC98B69635CE532
+Song Name: Saint's Beat
+Level ID:  custom_level_DACC5522BCF427BEE197E7688D96A29DCDD48FB8
+Song Name: Sakura Reflection (P*Light Slayer Remix)
+Level ID:  custom_level_1C719E41194613A37CAC662E040DD13067E55E22
+Song Name: Samba Land
+Level ID:  custom_level_EB28A79E2DBC80948D0EA09631E83557EA6B6735
+Song Name: Senbonzakura (Short Ver.)
+Level ID:  custom_level_E3EF6CAB44FF2222C09B399E8E5A62A095233621
+Song Name: Senpai Notice Me
+Level ID:  custom_level_AA2F7BF0DF25CD57DDDAC159FA7C159F732E0553
+Song Name: September
+Level ID:  custom_level_196D1061EAC3CD4BC586E5AFCAEA07C35F1D69D0
+Song Name: Setsuna Imitation (feat. Yurica, Hanatan)
+Level ID:  custom_level_0B0AD0F34B2D0687A9794BCF5019100FDA06971E
+Song Name: Seven Nation Army
+Level ID:  custom_level_0C02558F26E46D94C33728885A10EA8A4E2A9FD5
+Song Name: Shatter Me
+Level ID:  custom_level_1E86B21402C5EE98F3DB246F218135B3FF61A21A
+Song Name: Shera
+Level ID:  custom_level_1DD99CF5C696BC0FF9683A8D60FD7127BE5607B9
+Song Name: Showdown
+Level ID:  custom_level_47172FFB3A347FED5E7A88130BB89B7CA6110426
+Song Name: Shunkan Sentimental
+Level ID:  custom_level_30BD5315CCBAB56DF06949666FE1864BA591C9E5
+Song Name: Sidetracked Day
+Level ID:  custom_level_83C08F4B86A4BBE232A8DEB9527EC6D6B24EC9AB
+Song Name: Sidetracked Day (Short Ver.)
+Level ID:  custom_level_BFF86E80DD163511B37444E31C49569E084E7B40
+Song Name: sink to the deep sea world
+Level ID:  custom_level_3445BAA5CE6DB7B1DBEA4B1D4927128E38BA2E20
+Song Name: Six Trillion Years and Overnight Story
+Level ID:  custom_level_12762CE0623B92DCAECAF8393C7D068F819543C1
+Song Name: Skyrim Theme
+Level ID:  custom_level_1CCA456BF71339F4A9B0E7BEE5EF9E6A016D20CC
+Song Name: Snakey Chantey
+Level ID:  custom_level_963DA0A0ADE435B38AF6013CD07B28090739E961
+Song Name: Snow Drive
+Level ID:  custom_level_B5F2D1D582BE2706E44B860B8A04C7F5F1BE2910
+Song Name: Solace of Oblivion
+Level ID:  custom_level_A1563B3D664E6D58419F2D77E924C751B909EC7F
+Song Name: Spectrum
+Level ID:  custom_level_326C13F6664093537D89222CDF1C3FF7C9CE09C8
+Song Name: Star Night Snow (Short edit)
+Level ID:  custom_level_323975EF9EAEC337C8208DC864E766289E3D5EF1
+Song Name: Star Sky Two Steps From Hell
+Level ID:  custom_level_6D657DEC81613BF44917E7A1AD1B00763128B9E4
+Song Name: Stay Alive (Jun Kuroda Bootleg Remix)
+Level ID:  custom_level_CDA9F371D927E69B219D1603C53CC4661A87C926
+Song Name: Stereo Future (TV Size)
+Level ID:  custom_level_967D96E7DFD3EE444071E0A24DCC5FBB5B535266
+Song Name: Summer Night Hiking
+Level ID:  custom_level_C1C8E2B9394050AFAD435608137941DA0B64B8F3
+Song Name: Super Mario Bros. Theme (Overworld Theme)
+Level ID:  custom_level_17AD188A8DEA7CFF81F5F7C6720099A1E395B168
+Song Name: Supernova
+Level ID:  custom_level_9ED3B706B2306C00C2AD70A287C784277DBB5D74
+Song Name: Take Me Home, Country Roads
+Level ID:  custom_level_2AA1F5192828E075C30DD015B1E132BBA912EB86
+Song Name: Take On Me
+Level ID:  custom_level_0EDC32C8B6414DACC62562C41953193F29E3B159
+Song Name: Teo (ft. Hatsune Miku)
+Level ID:  custom_level_E3DAD947B390E4CDA91875543E99DE7F918E3CE3
+Song Name: Teopacito feat. Will Stetson
+Level ID:  custom_level_5DC262AC0A22DA7EDD20AF5698FA730715126788
+Song Name: That Was Too Slow
+Level ID:  custom_level_DD1E4D372642EE3079BC9494D424C1294239CE78
+Song Name: THE BLUE
+Level ID:  custom_level_B9542DEA152956B6805D7C6BF68E9A353975D7E3
+Song Name: The Sun, The Moon, The Star
+Level ID:  custom_level_68496811309FE62303EDDE686EB160F8E45AA9CE
+Song Name: The Thrill (Porter Robinson Remix)
+Level ID:  custom_level_8B065C1500296293155CDAACB2EE7B6685960737
+Song Name: Thirsty?
+Level ID:  custom_level_6655592E510E14B908909479FD9B614C676E16B9
+Song Name: This Is the Dead, and I Reached the Deathless
+Level ID:  custom_level_01FE02CF7CC8C74E94D5AE68D8F23F6AB143B33A
+Song Name: TIERRA
+Level ID:  custom_level_CC3D6FB0C78B9449AFB86D60713F8286215331F5
+Song Name: Till The End
+Level ID:  custom_level_972DFC4A9369D42A8037B4260C93018A82BFB49F
+Song Name: Time Lapse
+Level ID:  custom_level_60DBD91B8D38DE792614A847FFE1D8E227597EB8
+Song Name: Time To Say Goodbye
+Level ID:  custom_level_2920185B3EC35535E46E990980607F5C33547317
+Song Name: Tool-Assisted Speedcore
+Level ID:  custom_level_8AFB0C840EA4B07DB2A16E96164CE8BE094B2339
+Song Name: Tool-Assisted Speedcore
+Level ID:  custom_level_587EE9411A4F81E56A97FE2F281AA0C82ADA84F5
+Song Name: Trusting
+Level ID:  custom_level_9B0881BAAB8B72F33424ECF0D9AD247EA10AFBB2
+Song Name: TTFAF
+Level ID:  custom_level_BC6220ACE2AEDE409EFF44851C2272322AC75C84
+Song Name: TWISTSTEP
+Level ID:  custom_level_D03257E1541D4E6381ACCA614DCA5225D62FA1E4
+Song Name: Two-Faced Lovers feat. Miku
+Level ID:  custom_level_927B9B6F1408A3477DBCBEBD62AD41EFA6BE6176
+Song Name: Unravel
+Level ID:  custom_level_B9867CDCCF8B27D7A174C861ADC69215C86CDAB8
+Song Name: Unravel
+Level ID:  custom_level_236F4584E905542FC46B315E22FB07A6EF34D5C8
+Song Name: USAO ULTIMATE HYPER MEGA MIX
+Level ID:  custom_level_3D8FA87644F593218A74886988B17BE56BAD6345
+Song Name: V for EXTREME
+Level ID:  custom_level_1C04809280CF8129931132A53884394BAD27B577
+Song Name: Villain Virus
+Level ID:  custom_level_6656CF5167D3D3F14B23EE9A5F010C47E5995763
+Song Name: Villain Virus
+Level ID:  custom_level_92C7490D903F3E676069B92B7DE9E56B03A9677A
+Song Name: Villain Virus
+Level ID:  custom_level_4055AA5EB62DF414CCAB386AA4F40F4CC0016E14
+Song Name: volcanic
+Level ID:  custom_level_D8E8ED7E0661BAAD0C0E53F9720D557456E365DE
+Song Name: volcanic
+Level ID:  custom_level_4947A4B2FB332578375A412E568DE751436429BC
+Song Name: Walk This Way!
+Level ID:  custom_level_F42E4FB7EA9A439BDF295EE1CF4459E52D15B520
+Song Name: Welcome to the Club
+Level ID:  custom_level_66CEEFD205ECC6CD007EA851F1BF7E4856AB8FFC
+Song Name: werewolf howls.
+Level ID:  custom_level_FE387C4C7B03326139A5144ED21C4A02774B5DD9
+Song Name: When Can I See You Again
+Level ID:  custom_level_C02550F9A61779CA5FB2962883B917EA0673F5FE
+Song Name: Wish upon Twin Stars
+Level ID:  custom_level_A684CEE0D634B9BB59EEF234665FD28EF27876AC
+Song Name: Without Me - ILLENIUM Remix
+Level ID:  custom_level_5C382E8993DE8780A39B0B77E07B0CCFE00BD3A3
+Song Name: World's End, Girl's Rondo (Asterisk DnB Remix)
+Level ID:  custom_level_629EE2C1A14A27968A64B8AD9B25FB52F30DDE5C
+Song Name: YELL! (feat. Moimoi)
+Level ID:  custom_level_7C58B607EA40B52B38B040E76507B4341B4A2A1A
+Song Name: Yggdrasil
+Level ID:  custom_level_B157A98DBF02DECF0F7C2791ACCDB4CB388B8D94
+Song Name: Yggdrasil (Short Ver.)
+Level ID:  custom_level_766A222B102B6522CD5D31E82EC7ADC7C5FF011E
+Song Name: YoiYoi Kokon
+Level ID:  custom_level_9F58BC121CE735E903E42A8DD4947FA2E9360ED8
+Song Name: You're Everything
+Level ID:  custom_level_0E4B5E325760BDABB66CAEA4506C5463DAF4B51F
+Song Name: You're Welcome
+Level ID:  custom_level_9D5D9271F2F7E793748AD4028511EDEE800B40E8
+Song Name: Yugure
+Level ID:  custom_level_B24E5DBF100388DB53BD9EE04EEE66BD365DF84B
+Song Name: Zetsubou Plantation
+Level ID:  custom_level_3FB5C8CC39DFEE210530C02FDC2EB55B9179209C
+Song Name: Zettai Tokken Shuchou Shimasu! Hoshi Syoko Solo Remix
+-----------------------------------------------
