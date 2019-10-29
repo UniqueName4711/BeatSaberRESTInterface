@@ -24,15 +24,18 @@ namespace BeatSaberRESTInterface
         private BeatmapLevelsModelSO beatmapLevelsModelSO;
         private IBeatmapLevelPackCollection levelPackCollection;
 
+        private ScoreController scoreController;
+
 
         public GameStatus()
         {
-            BSEvents.OnLoad();
-            BSEvents.scoreDidChange += OnScoreDidChange;
+
         }
 
         public StatusMsg GetStatusMsg()
         {
+            initStatusVariables();
+
             StatusMsg msg = new StatusMsg();
             msg.UserName = GetUserName();
             msg.UserId = GetUserId();
@@ -49,7 +52,7 @@ namespace BeatSaberRESTInterface
         {
             initMapVariables();
 
-            if (levelID == "")
+            if (levelID == null || levelID == "")
             {
                 return;
             }
@@ -102,6 +105,18 @@ namespace BeatSaberRESTInterface
             }
         }
 
+        private void initStatusVariables()
+        {
+            if(scoreController == null)
+            {
+                scoreController = Resources.FindObjectsOfTypeAll<ScoreController>().FirstOrDefault();
+                if(scoreController != null)
+                {
+                    scoreController.scoreDidChangeEvent += OnScoreDidChange;
+                } 
+            }
+        }
+
         private IPreviewBeatmapLevel FindMap(string levelID)
         {
             uint i = 0;
@@ -141,7 +156,6 @@ namespace BeatSaberRESTInterface
         {
             if (viewController.isActiveAndEnabled && contentType == StandardLevelDetailViewController.ContentType.OwnedAndReady)
             {
-                Logger.log.Debug("#####ready#####");
                 if(startMap == true)
                 {
                     startMap = false;

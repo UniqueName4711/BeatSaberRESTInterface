@@ -9,7 +9,7 @@ namespace BeatSaberRESTInterface
     [Serializable]
     public class ActionMsg
     {
-        public string LevelID;      // Select a map with given ID
+        public string LevelID = null;      // Select a map with given ID
         public bool Start = false;  // Start the selected map
     }
 }

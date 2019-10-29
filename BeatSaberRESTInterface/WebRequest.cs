@@ -16,7 +16,10 @@ namespace BeatSaberRESTInterface
 
         public GameStatus gameStatus;
 
+        public bool allowChangeMap = true;
+
         private double time = 0.0f;
+
 
 
 
@@ -26,7 +29,6 @@ namespace BeatSaberRESTInterface
             if (time > UpdateInterval)
             {
                 time = 0.0f;
-                Logger.log.Debug("Update");
 
                 // Send and retrieve data from a server
                 StartCoroutine(PutRequest(Address));
@@ -46,8 +48,8 @@ namespace BeatSaberRESTInterface
             //    msgObj.LevelID = "FeelingStronger";
             //    msgObj.Start = true;
             //}
-            //count += 1;    
-            
+            //count += 1;
+
 
             string msgJson = JsonUtility.ToJson(msgObj);
             byte[] msgData = System.Text.Encoding.UTF8.GetBytes(msgJson);
@@ -67,10 +69,15 @@ namespace BeatSaberRESTInterface
                 {
                     //Logger.log.Debug("Received: " + req.downloadHandler.text);
 
-                    ActionMsg myObject = JsonUtility.FromJson<ActionMsg>(req.downloadHandler.text);
-                    gameStatus.SetActionMsg(myObject);
+                    if(allowChangeMap == true)
+                    {
+                        ActionMsg myObject = JsonUtility.FromJson<ActionMsg>(req.downloadHandler.text);
+                        gameStatus.SetActionMsg(myObject); 
+                    }
                 }
             }
+
+            yield break;
         }
 
     }

@@ -17,7 +17,7 @@ namespace BeatSaberRESTInterface
         private GameObject gameObject2;
         private WebRequest webReqest1;
         private WebRequest webReqest2;
-        private GameStatus gameStatus;
+        private GameStatus gameStatus = new GameStatus();
 
 
         public void Init(IPALogger logger, [Config.Prefer("json")] IConfigProvider cfgProvider)
@@ -35,7 +35,7 @@ namespace BeatSaberRESTInterface
 
         public void OnApplicationStart()
         {
-            gameStatus = new GameStatus();
+
         }
 
         public void OnApplicationQuit()
@@ -55,7 +55,7 @@ namespace BeatSaberRESTInterface
 
         public void OnActiveSceneChanged(Scene prevScene, Scene nextScene)
         {
-            // Register WebRequest class
+            //Register WebRequest class
             if(nextScene.name == "MenuCore")
             {
                 Logger.log.Debug("nextScene.name == MenuCore");
@@ -79,6 +79,7 @@ namespace BeatSaberRESTInterface
                     webReqest2.Address = config.Value.Address;
                     webReqest2.UpdateInterval = config.Value.UpdateInterval;
                     webReqest2.gameStatus = gameStatus;
+                    webReqest2.allowChangeMap = false;
                 }
             }
         }
