@@ -8,7 +8,7 @@ The plugin sends a http put request to a server. The address of the server is sp
 
 The message consists of a json string in the following format:
 
-```json
+```
 {
   "UserName": "Player4711", // string
   "UserId": 2429129807113296,   // unsigned long
@@ -20,7 +20,7 @@ The message consists of a json string in the following format:
 
 The server can send a response to the message in the following format:
 
-```json
+```
 {
   "LevelID": null, // string
   "Start": false // bool
